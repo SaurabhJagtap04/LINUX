@@ -1,4 +1,5 @@
-//Program used to access fucntions of addition, substraction, multiplication and division from shared library "7.1.so"
+//Program used to access fucntions of addition, substraction, 
+//multiplication and division from shared library "7.1.so"
 
 #include<stdio.h>
 #include<stdlib.h>
